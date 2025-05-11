@@ -58,7 +58,6 @@ theme.addEventListener('change',()=>{
   bar.style.boxShadow = '0px 0px 10px lightgrey'
   git.style.color = '#121211'
   insta.style.color = '#121212'
-  li.style.background='white'
   })
   }else{
   hampage.classList.remove('lite1')
